@@ -6,6 +6,6 @@ the dataset has been collected from kaggle for analysis.
 this model can be deployed or integrated into an app or website.
 
 
-note: the accuracy score is not up to the mark for this model but we can improve it later. flow must be same for all the algorithm we could use.
+note: the accuracy score is not up to the mark for this model but we can improve it later. flow must be same for all the algorithms we could use.
 
 
